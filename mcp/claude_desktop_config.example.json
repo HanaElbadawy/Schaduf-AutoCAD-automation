@@ -1,0 +1,18 @@
+﻿{
+  "mcpServers": {
+    "autocad": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "autocad-mcp-pro[com,pdf,office]==1.7.0",
+        "autocad-mcp"
+      ],
+      "env": {
+        "AUTOCAD_MCP_BACKEND": "com",
+        "TOOL_PROFILE": "full",
+        "TOOL_PACKS": "all",
+        "DISCOVERY_MODE": "search"
+      }
+    }
+  }
+}
