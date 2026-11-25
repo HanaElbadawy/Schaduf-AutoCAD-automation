@@ -1,0 +1,250 @@
+xref_file,layer,aci_color,linetype,pen_lineweight_mm,pen_screening_pct,layer_lineweight_property,entities
+GH-X-LA-GENERAL-MATCH_LINE_1-500,0,7,Continuous,0.7,100,    -3,0
+GH-X-LA-GENERAL-MATCH_LINE_1-500,DEFPOINTS,7,Continuous,0.7,100,    -3,48
+GH-X-LA-GENERAL-MATCH_LINE_1-500,LA-DRFT-Match Line 1-500 - Lines,1,ACAD_ISO05W100,0.1,100,    -3,16
+GH-X-LA-GENERAL-MATCH_LINE_1-500,LA-DRFT-Match Line 1-500 - Text,18,Continuous,0.01,5,    -3,0
+GH-X-LA-LP-Hardscape,0,252,Continuous,0.01,40,    -3,0
+GH-X-LA-LP-Hardscape,Defpoints,252,Continuous,0.01,40,    -3,0
+GH-X-LA-LP-Hardscape,LA-HARD-FOUN-Water Nozzels-Hatch,252,Continuous,0.01,40,    -3,24692
+GH-X-LA-LP-Hardscape,LA-HARD-FOUN-Water Nozzels-Lines,252,Continuous,0.01,40,    -3,9
+GH-X-LA-LP-Hardscape,LA-HARD-FURN-Bin-01,252,Continuous,0.01,40,    -3,57
+GH-X-LA-LP-Hardscape,LA-HARD-FURN-Pergola (WP-03),252,Continuous,0.01,40,    -3,3
+GH-X-LA-LP-Hardscape,LA-HARD-FURN-Seat-01,252,Continuous,0.01,40,    -3,57
+GH-X-LA-LP-Hardscape,LA-HARD-FURN-Tent(TT-01),252,Continuous,0.01,40,    -3,1
+GH-X-LA-LP-Hardscape,LA-HARD-FURN-WOODEN HANDRAIL,252,Continuous,0.01,40,    -3,55
+GH-X-LA-LP-Hardscape,LA-HARD-FURN-WOODEN HANDRAIL-BASE,252,Continuous,0.01,40,    -3,0
+GH-X-LA-LP-Hardscape,LA-HARD-FURN-WOODEN HANDRAIL-ROBE,252,Continuous,0.01,40,    -3,104
+GH-X-LA-LP-Hardscape,LA-HARD-PAVE-LINE-(CU-05),252,Continuous,0.01,40,    -3,4
+GH-X-LA-LP-Hardscape,LA-HARD-PAVE-LINE-01,252,Continuous,0.01,40,    30,1990
+GH-X-LA-LP-Hardscape,LA-HARD-PAVE-LINE-GRAVEL BOUNDARY,252,Continuous,0.01,40,    -3,9
+GH-X-LA-LP-Hardscape,LA-HARD-PAVE-LINE-Lake Edge,252,Continuous,0.01,40,    -3,4
+GH-X-LA-LP-Hardscape,LA-HARD-PAVE-LINE-Lake Edge-ELEV,252,Continuous,0.01,40,    -3,105
+GH-X-LA-LP-Hardscape,LA-HARD-PAVE-LINE-Stairs,252,Continuous,0.01,40,    -3,515
+GH-X-LA-LP-Hardscape,LA-HARD-PAVE-LINE-Stairs Hidden,252,DASHED2,0.01,40,    -3,413
+GH-X-LA-LP-Hardscape,LA-HARD-SIGN-Entry Sign,252,Continuous,0.01,40,    -3,2
+GH-X-LA-LP-Hardscape,LA-HARD-WALL-(AMPHITHEATER-01),252,Continuous,0.01,40,    -3,104
+GH-X-LA-LP-Hardscape,LA-HARD-WALL-(KW-01) Hatch,252,Continuous,0.01,40,    -3,330
+GH-X-LA-LP-Hardscape,LA-HARD-WALL-(KW-01) Lines,252,Continuous,0.01,40,    20,2293
+GH-X-LA-LP-Hardscape,LA-HARD-WALL-(SW-01),252,Continuous,0.01,40,    -3,7
+GH-X-LA-LP-Planting,0,108,Continuous,0.01,40,    -3,1
+GH-X-LA-LP-Planting,Defpoints,108,Continuous,0.01,40,    -3,0
+GH-X-LA-LP-Planting,GH-LP-PROPOSED ELECTRICAL,210,Continuous,0.01,100,    -3,0
+GH-X-LA-LP-Planting,LA-GNRL-NOTES-Text-03,240,Continuous,0.15,100,    -3,11
+GH-X-LA-LP-Planting,LA-PLNT-GROUNDCOVERS-BOUNDARY,108,Continuous,0.01,40,    -3,504
+GH-X-LA-LP-Planting,LA-PLNT-GROUNDCOVERS-HATCH,84,Continuous,0.05,20,    -3,523
+GH-X-LA-LP-Planting,LA-PLNT-LAWN-BOUNDARY,108,Continuous,0.01,40,    -3,21
+GH-X-LA-LP-Planting,LA-PLNT-LAWN-HATCH,84,Continuous,0.05,20,    -3,21
+GH-X-LA-LP-Planting,LA-PLNT-PALMS,108,Continuous,0.01,40,    -3,206
+GH-X-LA-LP-Planting,LA-PLNT-PALMS LIKE-Small,108,Continuous,0.01,40,    -3,26
+GH-X-LA-LP-Planting,LA-PLNT-SHRUB .5M,108,Continuous,0.01,40,    -3,275
+GH-X-LA-LP-Planting,LA-PLNT-SHRUB 1M,108,Continuous,0.01,40,    -3,3030
+GH-X-LA-LP-Planting,LA-PLNT-SHRUB 1M BOUN,108,Continuous,0.01,40,    -3,421
+GH-X-LA-LP-Planting,LA-PLNT-SHRUB 2M,108,Continuous,0.01,40,    -3,1407
+GH-X-LA-LP-Planting,LA-PLNT-SHRUB 2M BOUN,108,Continuous,0.01,40,    -3,251
+GH-X-LA-LP-Planting,LA-PLNT-SHRUB-TRUNK,108,Continuous,0.01,40,    -3,0
+GH-X-LA-LP-Planting,LA-PLNT-SUCCULENT 1M,108,Continuous,0.01,40,    -3,95
+GH-X-LA-LP-Planting,LA-PLNT-SUCCULENT 1M BOUN,108,Continuous,0.01,40,    -3,58
+GH-X-LA-LP-Planting,LA-PLNT-SUCCULENT 2M,108,Continuous,0.01,40,    -3,53
+GH-X-LA-LP-Planting,LA-PLNT-SUCCULENT 2M BOUN,108,Continuous,0.01,40,    -3,21
+GH-X-LA-LP-Planting,LA-PLNT-SUCCULENT 3M,108,Continuous,0.01,40,    -3,13
+GH-X-LA-LP-Planting,LA-PLNT-SUCCULENT 3M BOUN,108,Continuous,0.01,40,    -3,5
+GH-X-LA-LP-Planting,LA-PLNT-TREE 3M,108,Continuous,0.01,40,    -3,555
+GH-X-LA-LP-Planting,LA-PLNT-TREE 3M BOUN,108,Continuous,0.01,40,    -3,5
+GH-X-LA-LP-Planting,LA-PLNT-TREE 4M - Citrus,108,Continuous,0.01,40,    -3,89
+GH-X-LA-LP-Planting,LA-PLNT-TREE 4M - Citrus BOUN,108,Continuous,0.01,40,    -3,16
+GH-X-LA-LP-Planting,LA-PLNT-TREE 5M,108,Continuous,0.01,40,    -3,350
+GH-X-LA-LP-Planting,LA-PLNT-TREE 5M BOUN,108,Continuous,0.01,40,    -3,95
+GH-X-LA-LP-Planting,LA-PLNT-TREE 6M,108,Continuous,0.01,40,    -3,137
+GH-X-LA-LP-Planting,LA-PLNT-TREE 6M BOUN,108,Continuous,0.01,40,    -3,38
+GH-X-LA-LP-Planting,LA-PLNT-TREE 7M,108,Continuous,0.01,40,    -3,33
+GH-X-LA-LP-Planting,LA-PLNT-TREE 7M BOUN,108,Continuous,0.01,40,    -3,9
+GH-X-LA-LP-Planting,LA-PLNT-TREE 8M - Flowering,108,Continuous,0.01,40,    -3,263
+GH-X-LA-LP-Planting,LA-PLNT-TREE 8M - Flowering BOUN,108,Continuous,0.01,40,    -3,77
+GH-X-LA-LP-Planting,LA-PLNT-TREE-TRUNK,108,Continuous,0.01,40,    -3,0
+GH-X-LA-PU-Hardscape,0,5,Continuous,0.5,100,    -3,24
+GH-X-LA-PU-Hardscape,Defpoints,7,Continuous,0.7,100,    -3,0
+GH-X-LA-PU-Hardscape,GN-Project-Phase-Limit-Phase 1,15,Continuous,0.05,50,     5,0
+GH-X-LA-PU-Hardscape,LA-GNRL-Cross Reference,161,Continuous,0.25,100,    -3,40
+GH-X-LA-PU-Hardscape,LA-GNRL-NOTES-Text-02,150,Continuous,0.2,100,    -3,20
+GH-X-LA-PU-Hardscape,LA-GNRL-NOTES-Text-03,240,Continuous,0.15,100,    -3,126
+GH-X-LA-PU-Hardscape,LA-GRAD-Spot Levels,242,Continuous,0.15,100,    -3,30
+GH-X-LA-PU-Hardscape,LA-HARD--Design Leader,242,Continuous,0.15,100,    -3,861
+GH-X-LA-PU-Hardscape,LA-HARD-Center Line,172,CENTER2,0.05,100,    -3,15
+GH-X-LA-PU-Hardscape,LA-HARD-Contour Lines,232,DASHED2,0.1,100,    -3,528
+GH-X-LA-PU-Hardscape,LA-HARD-Design Text,3,Continuous,0.3,100,    -3,843
+GH-X-LA-PU-Hardscape,LA-HARD-Design frame,161,Continuous,0.25,100,    -3,848
+GH-X-LA-PU-Hardscape,LA-HARD-FURN-(LB-01),85,Continuous,0.05,70,    -3,119
+GH-X-LA-PU-Hardscape,LA-HARD-FURN-(LB-02),85,Continuous,0.05,70,    -3,64
+GH-X-LA-PU-Hardscape,LA-HARD-FURN-(LB-03),85,Continuous,0.05,70,    -3,52
+GH-X-LA-PU-Hardscape,LA-HARD-FURN-(SE-01),85,Continuous,0.05,70,    -3,219
+GH-X-LA-PU-Hardscape,LA-HARD-FURN-(SE-02),85,Continuous,0.05,70,    -3,1
+GH-X-LA-PU-Hardscape,LA-HARD-FURN-(SE-03),85,Continuous,0.05,70,    -3,72
+GH-X-LA-PU-Hardscape,LA-HARD-FURN-(ST-01),222,Continuous,0.05,100,    -3,39
+GH-X-LA-PU-Hardscape,LA-HARD-FURN-(WP-01),222,Continuous,0.05,100,    -3,1
+GH-X-LA-PU-Hardscape,LA-HARD-FURN-Bike stand-01,85,Continuous,0.05,70,    -3,39
+GH-X-LA-PU-Hardscape,LA-HARD-FURN-Coloum-01,20,Continuous,0.05,100,    -3,0
+GH-X-LA-PU-Hardscape,LA-HARD-FURN-Mechanical room,60,Continuous,0.01,100,    -3,22
+GH-X-LA-PU-Hardscape,LA-HARD-FURN-Natural rocks,47,Continuous,0.01,80,    -3,31
+GH-X-LA-PU-Hardscape,LA-HARD-FURN-Playgrounds,10,Continuous,0.01,100,    -3,15
+GH-X-LA-PU-Hardscape,LA-HARD-FURN-Water nozzels,120,Continuous,0.05,100,    -3,29
+GH-X-LA-PU-Hardscape,LA-HARD-FURN-Wood-01,178,Continuous,0.01,10,    -3,0
+GH-X-LA-PU-Hardscape,LA-HARD-FURN-Wood-02,15,Continuous,0.05,50,    -3,0
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH- (UI-BW-01-..-HB-..-01),19,Continuous,0.01,50,    -3,29
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(BS-BG-01-NS-RA-..-01),44,Continuous,0.05,30,    -3,11126
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(BS-BG-01-NS-RS-..-01),44,Continuous,0.05,30,    -3,10
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(BS-BW-01-NS-RA-..-01),19,Continuous,0.01,50,    -3,1295
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(BS-BW-02-NS-GR-..-02),19,Continuous,0.01,50,    -3,662
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(BS-BW-02-NS-RA-..-01),19,Continuous,0.01,50,    -3,48
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(BS-BW-02-NS-RS-..-01),19,Continuous,0.01,50,    -3,29
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(BS-GR-01-NS-GD-..-03),251,Continuous,0.01,20,    -3,4
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(CI-BG-01-PH-..-..-07),72,Continuous,0.05,100,    -3,320
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(CS-DB-01-..-FS-..-04),44,Continuous,0.05,30,    -3,1170
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(GR-C-01),48,Continuous,0.01,30,    -3,6
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(GR-M-01),5,Continuous,0.5,100,    -3,150
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(PC-BG-02-..-GD-..-04),47,Continuous,0.01,80,    -3,776
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(SA-01),44,Continuous,0.05,30,    -3,6
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(SS-BG-01-FP-01-04),44,Continuous,0.05,30,    -3,24
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(SS-BG-01-FP-01-04) @ 1,44,Continuous,0.05,30,    -3,0
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(SS-BG-01-FP-01-04) @ 1 VP1,44,Continuous,0.05,30,    -3,0
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(SS-BG-01-FP-01-04) @ 1 VP2,44,Continuous,0.05,30,    -3,0
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(SS-BG-01-FP-01-04) @ 1 VPModel,44,Continuous,0.05,30,    -3,0
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(SY-BG-..-..-..-..-06),36,Continuous,0.01,20,    -3,1
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(SY-CL-..-..-..-..-06),27,Continuous,0.01,60,    -3,34
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-BW-01-..-GD-..-01),19,Continuous,0.01,50,    -3,422
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-BW-01-..-HC-..-01),19,Continuous,0.01,50,    -3,4
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-BW-01-..-RA-..-01),19,Continuous,0.01,50,    -3,92
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-BW-01-..-RS-..-01),19,Continuous,0.01,50,    -3,398
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-BW-02-..-RA-..-02),19,Continuous,0.01,50,    -3,45
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-BW-03-..-HX-..-01),19,Continuous,0.01,50,    -3,6
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-DB-01-..-HB-..-01),44,Continuous,0.05,30,    -3,403
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-DB-01-..-RA-..-01),44,Continuous,0.05,30,    -3,5551
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-DB-01-..-RS-..-01),44,Continuous,0.05,30,    -3,1786
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-DB-01-..-RS-..-01) @ 1,44,Continuous,0.05,30,    -3,0
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-DB-01-..-RS-..-01) @ 1 VP1,44,Continuous,0.05,30,    -3,0
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-DB-01-..-RS-..-01) @ 1 VP2,44,Continuous,0.05,30,    -3,0
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-DB-01-..-RS-..-01) @ 1 VPModel,44,Continuous,0.05,30,    -3,0
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-DB-03-..-HX-..-01),44,Continuous,0.05,30,    -3,26
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-GR-01-..-HB-..-01),251,Continuous,0.01,20,    -3,39
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-GR-01-..-HC-..-01),251,Continuous,0.01,20,    -3,8615
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-GR-01-..-RA-..-01),251,Continuous,0.01,20,    -3,4517
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-GR-04-..-RS-..-03),251,Continuous,0.01,20,    -3,3682
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-RD-01-..-HB-..-01),248,Continuous,0.01,30,    -3,78
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-RD-01-..-RA-..-01),248,Continuous,0.01,30,    -3,8466
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-RD-03-..-HX-..-01),248,Continuous,0.01,30,    -3,87
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-(UI-RD-04-..-RS-..-01),248,Continuous,0.01,30,    -3,3612
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-GRAVEL-TYPE ( GR - C-01 ),62,Continuous,0.01,100,    -3,6
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-HATCH-Water-01,178,Continuous,0.01,10,    -3,25
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-LINE-(CU-01),40,Continuous,0.15,100,    -3,4582
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-LINE-(CU-02),90,Continuous,0.15,100,    -3,2009
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-LINE-(CU-03),242,Continuous,0.15,100,    -3,1483
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-LINE-(CU-04),242,Continuous,0.15,100,    -3,11
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-LINE-01,140,Continuous,0.15,100,    -3,13731
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-LINE-02,40,Continuous,0.15,100,    -3,3
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-LINE-03,225,Continuous,0.05,60,    -3,303
+GH-X-LA-PU-Hardscape,LA-HARD-PAVE-LINE-GRAVEL BOUNDARY,232,Continuous,0.1,100,    -3,3901
+GH-X-LA-PU-Hardscape,LA-HARD-SafetyZone,135,DASHED,0.05,70,    -3,0
+GH-X-LA-PU-Hardscape,LA-HARD-WALLS-(FW-01),211,Continuous,0.25,100,    -3,1
+GH-X-LA-PU-Hardscape,LA-HARD-WALLS-(RR-01),111,Continuous,0.25,100,    -3,28
+GH-X-LA-PU-Hardscape,LA-HARD-WALLS-(SW-01),2,Continuous,0.2,100,    -3,31
+GH-X-LA-PU-Hardscape,LA-HARD-WALLS-(SW-02),100,Continuous,0.2,100,    -3,27
+GH-X-LA-PU-Hardscape,LA-HARD-WALLS-(SW-03),2,Continuous,0.2,100,    -3,16
+GH-X-LA-PU-Hardscape,LA-HARD-WALLS-(SW-04),100,Continuous,0.2,100,    -3,2
+GH-X-LA-PU-Hardscape,LA-HARD-Wipeout,252,CENTER2,0.01,40,    -3,0
+GH-X-LA-PU-Lighting,0,7,Continuous,0.7,100,    -3,11
+GH-X-LA-PU-Lighting,Defpoints,7,Continuous,0.7,100,    -3,0
+GH-X-LA-PU-Lighting,LA-LI-Bollard-350,62,Continuous,0.01,100,    -3,428
+GH-X-LA-PU-Lighting,LA-LI-Bollard-800,12,Continuous,0.01,100,    -3,365
+GH-X-LA-PU-Lighting,LA-LI-Design Text,3,Continuous,0.3,100,    -3,0
+GH-X-LA-PU-Lighting,LA-LI-Earthspike-01,112,Continuous,0.01,100,    -3,323
+GH-X-LA-PU-Lighting,LA-LI-In-Ground-01,162,Continuous,0.01,100,    -3,158
+GH-X-LA-PU-Lighting,LA-LI-Key Line,3,Continuous,0.3,100,    -3,0
+GH-X-LA-PU-Lighting,LA-LI-Recessed-01,112,Continuous,0.01,100,    -3,95
+GH-X-LA-PU-Lighting,LA-LI-Uplight-01,212,Continuous,0.01,100,    -3,279
+GH-X-LA-PU-Lighting,LA-LI-Z-RANGE,5,DASHED2,0.5,100,    -3,0
+GH-X-LA-PU-Planting,0,7,Continuous,0.7,100,    -3,1
+GH-X-LA-PU-Planting,Defpoints,7,Continuous,0.7,100,    -3,0
+GH-X-LA-PU-Planting,LA-GNRL-Design Leader,242,Continuous,0.15,100,    -3,7127
+GH-X-LA-PU-Planting,LA-GNRL-Design Leader-tree,42,Continuous,0.15,100,    -3,1481
+GH-X-LA-PU-Planting,LA-GNRL-Design Text,3,Continuous,0.3,100,    -3,17002
+GH-X-LA-PU-Planting,LA-PLNT-GNRL-Callout Note,190,Continuous,0.15,100,    -3,14046
+GH-X-LA-PU-Planting,LA-PLNT-GNRL-Callout Note-trees,40,Continuous,0.15,100,    -3,2956
+GH-X-LA-PU-Planting,LA-PLNT-GROUNDCOVERS-BOUNDARY,82,Continuous,0.1,100,    -3,123825
+GH-X-LA-PU-Planting,LA-PLNT-GROUNDCOVERS-HATCH,109,Continuous,0.01,90,    -3,5154
+GH-X-LA-PU-Planting,LA-PLNT-LAWN-BOUNDARY,40,Continuous,0.15,100,    -3,147
+GH-X-LA-PU-Planting,LA-PLNT-LAWN-HATCH,59,Continuous,0.01,90,    -3,69
+GH-X-LA-PU-Planting,LA-PLNT-PALMS,100,Continuous,0.2,100,    -3,2758
+GH-X-LA-PU-Planting,LA-PLNT-PALMS LIKE-Small,62,Continuous,0.01,100,    -3,35
+GH-X-LA-PU-Planting,LA-PLNT-SHRUB .5M,45,Continuous,0.05,80,    -3,24
+GH-X-LA-PU-Planting,LA-PLNT-SHRUB 1M,57,Continuous,0.01,90,    -3,11892
+GH-X-LA-PU-Planting,LA-PLNT-SHRUB 1M BOUN,40,Continuous,0.15,100,    -3,1232
+GH-X-LA-PU-Planting,LA-PLNT-SHRUB 2M,12,Continuous,0.01,100,    -3,684
+GH-X-LA-PU-Planting,LA-PLNT-SHRUB 2M BOUN,202,Continuous,0.2,100,    -3,106
+GH-X-LA-PU-Planting,LA-PLNT-SHRUB-HEDGE,113,Continuous,0.25,100,    -3,17779
+GH-X-LA-PU-Planting,LA-PLNT-SHRUB-TRUNK,30,Continuous,0.1,100,    -3,0
+GH-X-LA-PU-Planting,LA-PLNT-SUCCULENT 1M,107,Continuous,0.01,90,    -3,233
+GH-X-LA-PU-Planting,LA-PLNT-SUCCULENT 1M BOUN,42,Continuous,0.15,100,    -3,41
+GH-X-LA-PU-Planting,LA-PLNT-TREE 3M,62,Continuous,0.01,100,    -3,1230
+GH-X-LA-PU-Planting,LA-PLNT-TREE 3M BOUN,202,Continuous,0.2,100,    -3,245
+GH-X-LA-PU-Planting,LA-PLNT-TREE 4M - Citrus,12,Continuous,0.01,100,    -3,120
+GH-X-LA-PU-Planting,LA-PLNT-TREE 4M - Citrus BOUN,61,Continuous,0.25,100,    -3,37
+GH-X-LA-PU-Planting,LA-PLNT-TREE 5M,62,Continuous,0.01,100,    -3,2293
+GH-X-LA-PU-Planting,LA-PLNT-TREE 5M BOUN,113,Continuous,0.25,100,    -3,679
+GH-X-LA-PU-Planting,LA-PLNT-TREE 6M,62,Continuous,0.01,100,    -3,1191
+GH-X-LA-PU-Planting,LA-PLNT-TREE 6M BOUN,111,Continuous,0.25,100,    -3,363
+GH-X-LA-PU-Planting,LA-PLNT-TREE 7M,32,Continuous,0.1,100,    -3,551
+GH-X-LA-PU-Planting,LA-PLNT-TREE 7M - Flowering,221,Continuous,0.3,100,    -3,1708
+GH-X-LA-PU-Planting,LA-PLNT-TREE 7M BOUN,223,Continuous,0.3,100,    -3,119
+GH-X-LA-PU-Planting,LA-PLNT-TREE-TRUNK,52,Continuous,0.2,100,    -3,0
+GH-X-LA-PU-Staking,0,5,Continuous,0.5,100,    -3,1
+GH-X-LA-PU-Staking,Defpoints,7,Continuous,0.7,100,    -3,0
+GH-X-LA-PU-Staking,LA-STAK-Staking Point Symbol,135,Continuous,0.05,70,    -3,8566
+GH-X-LA-PU-Staking,LA-STAK-Staking PointText,240,Continuous,0.15,100,    -3,4283
+GH-X-LA-PU-Staking,LA-STAK-Staking Table,6,Continuous,0.6,100,    -3,1
+GH-X-LA-SV-Hardscape,0,7,Continuous,0.7,100,    -3,0
+GH-X-LA-SV-Hardscape,DEFPOINTS,7,Continuous,0.7,100,,0
+GH-X-LA-SV-Hardscape,LA-GNRL-Wipeout,252,CENTER2,0.01,40,    -3,0
+GH-X-LA-SV-Hardscape,LA-HARD-FURN-Bike stand-01,204,Continuous,0.05,40,    -3,2
+GH-X-LA-SV-Hardscape,LA-HARD-FURN-Seat-01,204,Continuous,0.05,40,    -3,4
+GH-X-LA-SV-Hardscape,LA-HARD-FURN-Trash-01,204,Continuous,0.05,40,    -3,2
+GH-X-LA-SV-Hardscape,LA-HARD-FURN-Water nozzel,176,Continuous,0.01,10,    -3,5
+GH-X-LA-SV-Hardscape,LA-HARD-PAVE-HATCH-(BBR-2),238,Continuous,0.01,20,    -3,225
+GH-X-LA-SV-Hardscape,LA-HARD-PAVE-HATCH-(BER-1),238,Continuous,0.01,20,    -3,3
+GH-X-LA-SV-Hardscape,LA-HARD-PAVE-HATCH-(IBF-2),238,Continuous,0.01,20,    -3,2
+GH-X-LA-SV-Hardscape,LA-HARD-PAVE-HATCH-(IER-1),238,Continuous,0.01,20,    -3,1
+GH-X-LA-SV-Hardscape,LA-HARD-PAVE-HATCH-(IGR-1),238,Continuous,0.01,20,    -3,37
+GH-X-LA-SV-Hardscape,LA-HARD-PAVE-HATCH-(PBG-1),238,Continuous,0.01,20,    -3,1
+GH-X-LA-SV-Hardscape,LA-HARD-PAVE-HATCH-02,234,Continuous,0.05,20,    -3,7
+GH-X-LA-SV-Hardscape,LA-HARD-PAVE-LINE-(CU-01),40,Continuous,0.15,100,    -3,1
+GH-X-LA-SV-Hardscape,LA-HARD-PAVE-LINE-01,215,Continuous,0.05,50,    30,333
+GH-X-LA-SV-Hardscape,LA-HARD-PAVE-LINE-02,215,Continuous,0.05,50,    30,48
+GH-X-LA-SV-Hardscape,LA-HARD-PAVE-LINE-Curb-01,215,Continuous,0.05,50,    -3,49
+GH-X-LA-SV-Hardscape,LA-HARD-PAVE-LINE-Curb-03,215,Continuous,0.05,50,    -3,9
+GH-X-LA-SV-Hardscape,LA-HARD-WALL-Seatwall-01,215,Continuous,0.05,50,    -3,5
+GH-X-LA-SV-Planting,0,7,Continuous,0.7,100,    -3,0
+GH-X-LA-SV-Planting,DEFPOINTS,228,Continuous,0.01,10,,0
+GH-X-LA-SV-Planting,GN-Project-Phase-Limit-Phase 1,15,Continuous,0.05,50,     5,0
+GH-X-LA-SV-Planting,LA-GNRL-Design Leader,228,Continuous,0.01,10,    -3,257
+GH-X-LA-SV-Planting,LA-GNRL-Design Text,228,Continuous,0.01,10,    -3,514
+GH-X-LA-SV-Planting,LA-HARD-PAVE-LINE-01,228,Continuous,0.01,10,    30,0
+GH-X-LA-SV-Planting,LA-PLNT-GNRL-Callout Note,228,Continuous,0.01,10,    -3,514
+GH-X-LA-SV-Planting,LA-PLNT-GRAVEL BOUN,228,Continuous,0.01,10,    -3,10
+GH-X-LA-SV-Planting,LA-PLNT-GRAVEL HATCH,228,Continuous,0.01,10,    -3,10
+GH-X-LA-SV-Planting,LA-PLNT-GROUNDCOVERS-BOUNDARY,228,Continuous,0.01,10,    -3,94
+GH-X-LA-SV-Planting,LA-PLNT-GROUNDCOVERS-HATCH,228,Continuous,0.01,10,    -3,93
+GH-X-LA-SV-Planting,LA-PLNT-PALMS,251,Continuous,0.01,20,    -3,184
+GH-X-LA-SV-Planting,LA-PLNT-SHRUB 1M,251,Continuous,0.01,20,    -3,388
+GH-X-LA-SV-Planting,LA-PLNT-SHRUB 1M BOUN,251,Continuous,0.01,20,    -3,54
+GH-X-LA-SV-Planting,LA-PLNT-SHRUB 2M,251,Continuous,0.01,20,    -3,174
+GH-X-LA-SV-Planting,LA-PLNT-SHRUB 2M BOUN,251,Continuous,0.01,20,    -3,30
+GH-X-LA-SV-Planting,LA-PLNT-SHRUB-TRUNK,251,Continuous,0.01,20,    -3,0
+GH-X-LA-SV-Planting,LA-PLNT-TREE 3M,251,Continuous,0.01,20,    -3,118
+GH-X-LA-SV-Planting,LA-PLNT-TREE 3M BOUN,251,Continuous,0.01,20,    -3,6
+GH-X-LA-SV-Planting,LA-PLNT-TREE 5M,251,Continuous,0.01,20,    -3,111
+GH-X-LA-SV-Planting,LA-PLNT-TREE 5M BOUN,251,Continuous,0.01,20,    -3,4
+GH-X-LA-SV-Planting,LA-PLNT-TREE 6M,251,Continuous,0.01,20,    -3,10
+GH-X-LA-SV-Planting,LA-PLNT-TREE 7M,251,Continuous,0.01,20,    -3,10
+GH-X-LA-SV-Planting,LA-PLNT-TREE 7M - Flowering,251,Continuous,0.01,20,    -3,4
+GH-X-LA-SV-Planting,LA-PLNT-TREE 7M - Regular,251,Continuous,0.01,20,    -3,7
+GH-X-LA-SV-Planting,LA-PLNT-TREE 7M BOUN,251,Continuous,0.01,20,    -3,2
+GH-X-LA-SV-Planting,LA-PLNT-TREE 8M - Flowering,251,Continuous,0.01,20,    -3,126
+GH-X-LA-SV-Planting,LA-PLNT-TREE-TRUNK,251,Continuous,0.01,20,    -3,0
